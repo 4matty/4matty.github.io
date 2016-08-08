@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://4matty.github.io
+title: 4matty
+tagline: A log of everyday life
+description: My awesome new test site
+paginate: 5
